@@ -1,1 +1,2 @@
-'
+# Highlight standard JavaScript source files
+*.js linguist-language=JavaScript
